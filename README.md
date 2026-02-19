@@ -17,6 +17,15 @@ O objetivo é classificar cada review como:
 - 1 → Positiva
 
 ---
+## Instalação
+
+Clone o repositório:
+
+git clone https://github.com/TarikSalles/movie-review-sentiment-classification
+
+Instale as dependências:
+
+pip install -r requirements.txt
 
 ## Dataset
 

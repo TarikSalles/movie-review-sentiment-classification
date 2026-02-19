@@ -27,6 +27,7 @@ Instale as dependências:
 
 pip install -r requirements.txt
 
+---
 ## Dataset
 
 Foi utilizado o dataset `movie_reviews` da biblioteca NLTK, contendo:

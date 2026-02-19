@@ -114,7 +114,7 @@ Onde:
 ---
 
 ![Frequencias](images/curva_frequencias.png)
-
+![Frequencia Negativa](images/curva_frequencias_negativas.png)
 
 ## Modelo de Regressão Logística
 
